@@ -1,0 +1,11 @@
+:root{
+    /* Primary colors */
+--primary-strong-cyan: hsl(171, 66%, 44%); /* Bold accent color */
+--primary-light-blue: hsl(233, 100%, 69%); /* Lighter shade for accents and backgrounds */
+
+/* Neutral colors */
+--neutral-dark-grayish-blue: hsl(210, 10%, 33%); /* Darkest neutral for text on light backgrounds */
+--neutral-grayish-blue: hsl(201, 11%, 66%); /* General neutral for text and backgrounds */
+
+font-family: "Bai Jamjuree", sans-serif;
+}
