@@ -1,0 +1,33 @@
+.intro{
+    margin:4rem 0;
+    display:flex;
+    flex-direction: column;
+}
+
+.logo{
+    margin:2rem 0;
+}
+
+.title{
+    margin-bottom:1rem;
+}
+
+.title-desc{
+    margin:1rem 0;
+}
+
+.ios{
+    background-color: var(--primary-strong-cyan);
+    box-shadow: 0 5px whitesmoke;
+}
+
+.mac{
+    background-color: var(--primary-light-blue);
+}
+.download{
+    margin:1rem 2rem;
+    padding:1rem 0;
+    border-radius: 30px;
+    color:whitesmoke;
+    
+}

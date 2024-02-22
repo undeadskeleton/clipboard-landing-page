@@ -9,7 +9,7 @@
 
 body{
     background-image: url('bg-header-mobile.png');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     display:flex;
     flex-direction: column;
