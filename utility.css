@@ -9,3 +9,7 @@
 
 font-family: "Bai Jamjuree", sans-serif;
 }
+
+.desc{
+    color:var(--neutral-grayish-blue);
+}

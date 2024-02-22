@@ -12,7 +12,7 @@
     margin-bottom:1rem;
 }
 
-.title-desc{
+.intro .desc{
     margin:1rem 0;
 }
 
@@ -30,4 +30,4 @@
     border-radius: 30px;
     color:whitesmoke;
     
-}
+} 
